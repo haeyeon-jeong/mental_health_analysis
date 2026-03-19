@@ -2,10 +2,7 @@
 
 ## Authors
 
-- Haeyeon Jeong  
-- Sai Rachana Kandikattu  
-- Abirham Getie  
-- Yonathan Shimelis  
+Haeyeon Jeong | Sai Rachana Kandikattu | Abirham Getie | Yonathan Shimelis  
 
 ---
 
