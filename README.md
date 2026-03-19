@@ -126,7 +126,7 @@ This project analyzes mental health survey data to identify key factors influenc
 - Team7_Mental_Health_Code_Analysis.py  
 
 2. Make sure the dataset is in the same directory:
-- Download `Mental Health Dataset.csv.zip (./Mental%20Health%20Dataset.csv)`  
+- Download `Mental Health Dataset.csv.zip (./Mental Health Dataset.csv.zip)`  
 - Unzip it to get `Mental Health Dataset.csv`  
 - Place the `.csv` file in the same directory as the Python script  
 
