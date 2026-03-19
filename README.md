@@ -136,6 +136,9 @@ pip install numpy pandas matplotlib seaborn scikit-learn plotly altair yellowbri
 ```
 ---
 
-## Additional files
-report/Team7_Mental_Health_Analysis_F.pdf
+## Presentation
+
+- `report/Team7_Mental_Health_Analysis_F.pdf` contains the presentation slides for this project  
+
+This file summarizes the problem, methodology, analysis, models, and key findings.
 
