@@ -133,7 +133,7 @@ This project analyzes mental health survey data to identify key factors influenc
 3. Install dependencies:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn plotly altair yellowbrick
-
+```
 ---
 
 ## Additional files
